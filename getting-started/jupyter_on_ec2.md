@@ -62,4 +62,4 @@ We recommend using something like screen, tmux, or nohup to keep your notebook i
 Launch Jupyter Notebook using jupyter notebook --no-browser. The --no-browser flag prevents the server from launching a browser.
 Tunnel into Notebook
 
-Open up any web browser and point it to http://localhost:8888 .
+Open up any web browser and point it to http://localhost:8888
